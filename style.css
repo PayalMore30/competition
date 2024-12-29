@@ -1,0 +1,119 @@
+.container{
+   /* width: 1920px;
+   height: 829px;*/
+}
+.navbar{
+    width: Fixed (1,920px)px;
+    height: Hug (92px)px;
+    padding: 16px 220px 16px 220px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+    display: flex;
+    background-color: #043873;
+}
+#logo{
+    width: 350px;
+height: 34px;
+left: 47px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 28px;
+font-weight: 700;
+line-height: 33.89px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+z-index: 8;
+
+}
+.selects{
+    width: Fixed (551.5px)px;
+    height: 24px;
+    gap: 32px;
+    opacity: 0px;
+    width: Fixed (551.5px)px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#product,#solution,#resources,#pricing{
+    border:none;
+    background: transparent;
+    color: white;
+}
+#login{
+    width: Hug (126px)px;
+height: Fixed (60px)px;
+padding: 16px 40px 16px 40px;
+gap: 10px;
+border-radius: 8px;
+opacity: 0px;
+background-color: #FFE492;
+}
+#TryWhitespacefree{
+    width: Hug (227px)px;
+height: Fixed (60px)px;
+padding: 16px 24px 16px 24px;
+gap: 10px;
+opacity: 0px;
+background: #4F9CF9;
+border-radius: 8px;
+color: white;
+border: none;
+}
+.firstpage,.thirdpage{
+    width: Fixed (1,920px)px;
+height: Hug (829px)px;
+top: 0px;
+padding: 140px 220px 140px 200px;
+gap: 0px;
+opacity: 0px;
+background: #043873;
+display: flex;
+
+}
+.box1,.box5{
+width: 700px;
+height: Hug (829px)px;
+top: 92px;
+gap: 0px;
+opacity: 0px;
+color: white;
+}
+.box2,.box4,.box6{
+width: 700px;
+height:400px;
+gap: 2px;
+opacity: 0px;
+background: #C4DEFD;
+}
+h1{
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+letter-spacing: -0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.secondpage{
+    width: Fixed (1,920px)px;
+height: Hug (829px)px;
+top: 0px;
+padding: 140px 220px 140px 200px;
+gap: 0px;
+opacity: 0px;
+
+display: flex;
+}
+.box3{
+    width: 700px;
+height: Hug (829px)px;
+top: 92px;
+gap: 0px;
+opacity: 0px;
+}
+
